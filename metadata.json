@@ -1,0 +1,6 @@
+{
+  "name": "Hệ thống Quản lý Học sinh & Ký túc xá Nội trú - THPT Chuyên Hùng Vương",
+  "description": "Hệ thống quản lý trực quan 1.880 học sinh Tòa nhà A và 699 học sinh nội trú KTX THPT Chuyên Hùng Vương: 11 chế độ sinh hoạt Quân đội, kiểm tra nề nếp đầu giờ và đánh giá KPI rèn luyện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
